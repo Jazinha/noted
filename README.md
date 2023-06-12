@@ -31,10 +31,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Tests
 Video demonstration: 
-
-
-Screenshot of demo: 
-
+https://drive.google.com/file/d/1HFGjisjl17v6yvjrpr5I1FoMfZPIZbWu/view
 
 ## License
 MIT
